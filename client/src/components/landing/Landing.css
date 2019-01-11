@@ -1,0 +1,35 @@
+.landing {
+  margin-top: 20px;
+}
+.inputLine {
+  background-color: blue;
+}
+.btnSubmit {
+  width: 15%;
+  margin-left: 35px;
+  margin-right: 200px;
+  background-color: white;
+}
+
+.btnSubmit:focus {
+  background-color: white;
+}
+.shorten-title {
+  margin-top: 20px;
+}
+.formError {
+  color: red;
+}
+.loader {
+  margin-top: 20px;
+  text-align: center;
+  padding: 0 14px;
+}
+.shorten-imp {
+  margin-top: 20px;
+}
+
+.shorten-error {
+  margin-top: 20px;
+  color: red;
+}
